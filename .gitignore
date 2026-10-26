@@ -1,1 +1,18 @@
 .vercel
+
+# Personal documents (originals, certificates, IDs) - never publish
+private/
+
+# Stray downloads dropped in the repo root
+/*.pdf
+/*.jpg
+/*.jpeg
+/*.png
+/*.heic
+WhatsApp Image*
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
