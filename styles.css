@@ -537,7 +537,7 @@ kbd {
 .photo-frame {
     position: relative;
     width: min(360px, 100%);
-    aspect-ratio: 1;
+    aspect-ratio: 4 / 5;
 }
 
 .photo-frame::before {
